@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#111111] text-gray-300 antialiased;
+  }
+}
+
+.glow-effect {
+  background: radial-gradient(
+    circle at var(--x) var(--y),
+    rgba(100, 100, 255, 0.15),
+    transparent 20%
+  );
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-100%); }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
