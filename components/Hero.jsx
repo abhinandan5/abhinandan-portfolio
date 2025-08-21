@@ -45,7 +45,7 @@ export default function Hero({ contact, scrollToSection }) {
                     Hi, I'm Abhinandan
                 </h1>
                 <p className="text-xl md:text-4xl text-gray-400 mb-8">
-                    Full Stack Developer
+                    Software Developer
                 </p>
 
                 <div className="flex justify-center items-center space-x-6 mb-8">
