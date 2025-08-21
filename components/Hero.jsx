@@ -44,7 +44,7 @@ export default function Hero({ contact, scrollToSection }) {
                 <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-2">
                     Hi, I'm Abhinandan
                 </h1>
-                <p className="text-xl md:text-4xl text-gray-400 mb-8">
+                <p className="text-3xl md:text-4xl text-gray-400 mb-8">
                     Software Developer
                 </p>
 
