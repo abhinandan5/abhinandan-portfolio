@@ -12,7 +12,7 @@ import Footer from '@/components/Footer';
 export default function Home() {
   const portfolioData = {
     name: "Abhinandan",
-    summary: "Versatile and detail-oriented Full Stack Developer with hands-on experience in modern frontend & backend technologies including JavaScript, React.js, Next.js, and Node.js. Proficient in SQL and NoSQL, version control tools like Git/GitHub, with strong problem-solving abilities.",
+    summary: "Versatile and detail-oriented Software Developer with hands-on experience in modern frontend & backend technologies including JavaScript, React.js, Next.js, and Node.js. Proficient in SQL and NoSQL, version control tools like Git/GitHub, with strong problem-solving abilities.",
     contact: {
       phone: "+91 96021 89253",
       email: "abhinandan.nitraipur@gmail.com",
@@ -68,7 +68,24 @@ export default function Home() {
         description: "An AI-powered legal advisor designed to process and answer thousands of user queries.",
         link: "https://legalhub-1a28.vercel.app/",
         image: "/project-legalhub.png",
-      }
+      },
+      {
+        name: "NewsFolio Dashboard",
+        tech: ["Next.js", "Tailwind CSS"],
+        description:
+          "A feature-rich, responsive dashboard for viewing, filtering, and analyzing news articles. Includes administrative tools for calculating and exporting author payouts.",
+        link: "https://newsfolio-dashboard-git-main-abhinandan5s-projects.vercel.app/",
+        image: "/project-newsFolio.png",
+      },
+      {
+        name: "ShopSphere - E-Commerce",
+        tech: ["Next.js", "Tailwind CSS", "React"],
+        description:
+          "A modern, responsive e-commerce front-end built as part of the WhatBytes frontend developer assignment. Features an interactive, user-friendly shopping experience.",
+        link: "https://shopsphere-taupe.vercel.app/",
+        image: "/project-eCommerce.png",
+      },
+
     ],
   };
 
