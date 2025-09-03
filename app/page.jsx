@@ -46,7 +46,7 @@ export default function Home() {
       {
         role: "Software Developer Intern",
         company: "iHub AWADH, IIT Ropar",
-        period: "Jan 2025 - Feb 2025",
+        period: "Jan 2025 - June 2025",
         description: [
           "Developed a block-based coding platform using React and Scratch Blocks.",
           "Built an intuitive drag-and-drop UI, improving coding efficiency by 40%.",

@@ -61,7 +61,7 @@ export default function Hero({ contact, scrollToSection }) {
                         Get In Touch
                     </button>
                     <a
-                        href="https://drive.google.com/file/d/1iVeRPtBunBmzONskTXXXy0CVBih9_5eD/view?usp=drivesdk"
+                        href="https://drive.google.com/file/d/1lCyEGNwrKjiSCROuzcJybeqpP4Trm9bi/view?usp=drivesdk"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="ml-4 bg-gray-700 text-white font-bold py-3 px-8 rounded-full hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 inline-flex items-center"
